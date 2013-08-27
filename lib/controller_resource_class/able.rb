@@ -5,6 +5,7 @@ module ControllerResourceClass
     def resource_class
       self.class.resource_class
     end
+    helper_method :resource_class
 
     module ClassMethods
       def set_resource_class(value)
