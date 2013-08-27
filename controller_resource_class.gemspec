@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ControllerResourceClass::VERSION
   spec.authors       = ["barelyknown"]
   spec.email         = ["sean@buytruckload.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Add a resource_class method to Rails controllers.}
+  spec.summary       = %q{Add a resource_class method to Rails controllers.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
