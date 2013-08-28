@@ -2,6 +2,7 @@ require "spec_helper"
 
 module ControllerResourceClass
   class ApplicationController
+    def self.helper_method(method_name); end
     include Able
   end
 
